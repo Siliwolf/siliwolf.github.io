@@ -1,3 +1,5 @@
+# I DID NOT MAKE THIS. CHECK OUT MISODE. I JUST WANTED TO USE 1.17 SO I SHAMELESS STOLE THIS. USE THEIR THING IF YOU VALUE YOUR TIME
+
 # misode.github.io
 Data Pack Generators for Minecraft Java Edition
 
